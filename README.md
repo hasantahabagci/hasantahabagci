@@ -1,6 +1,6 @@
 # Hi there, I'm Hasan Taha Bagci 👋
 
-### Computer Engineer | AI/ML Enthusiast | Software Developer
+### AI Engineer | AI/ML Enthusiast
 
 I'm a passionate developer specializing in artificial intelligence, machine learning, and software engineering. Currently studying at Istanbul Technical University, I focus on building intelligent systems and scalable applications.
 
@@ -8,7 +8,7 @@ I'm a passionate developer specializing in artificial intelligence, machine lear
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Student at Istanbul Technical University
+- 🎓 AI Engineering Student at Istanbul Technical University
 - 💡 Interested in Deep Learning, Computer Vision, and Robotics
 - 🔭 Working on AI/ML projects and system optimization
 - 🌱 Continuously learning and exploring new technologies

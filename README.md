@@ -74,8 +74,3 @@ I'm a 4th-year AI & Data Engineering student at Istanbul Technical University, s
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Bagci_HT)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hasantahabagci)
 
----
-
-<p align="center">
-  <i>🚁 "Innovation distinguishes between a leader and a follower." – Steve Jobs</i>
-</p>

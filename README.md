@@ -1,75 +1,92 @@
+
 # Hi there, I'm Hasan Taha Bagci 👋
 
-### AI/ML Researcher | Robotics Engineer | UAV Systems Developer
+### AI & Robotics Researcher | Robot Learning | Autonomous Systems
 
-I'm a 4th-year AI & Data Engineering student at Istanbul Technical University, specializing in reinforcement learning, computer vision, and autonomous systems. My work spans from LLM-driven decision making to UAV navigation and visual localization in GNSS-denied environments.
+I'm a final-year Artificial Intelligence and Data Engineering student at Istanbul Technical University (ITU), with research interests in robot learning, safe control, computer vision, and autonomous systems.
+
+My research focuses on learning-based robotic control and planning, including world models for contact-rich manipulation, vision-based navigation, and UAV autonomy.
+
+I am currently a Visiting Researcher at the Boston University Robotics Lab, working with Prof. John Baillieul. I have also conducted research at the ITU Aerospace Research Center and the MIT McGovern Institute.
+
+🌐 **Website:** [hasantahabagci.com](https://hasantahabagci.com)  
+📧 **Email:** [bagcih21@itu.edu.tr](mailto:bagcih21@itu.edu.tr)  
+🎓 **Google Scholar:** [My Publications](https://scholar.google.com/citations?user=Bagci_HT)
 
 ---
 
-## 🎯 Research Interests
+## 🔬 Research Interests
 
-- **Reinforcement Learning & Decision Making**: LLM-driven systems, policy optimization, multi-agent coordination, UAV navigation
-- **Computer Vision**: Object detection & tracking, aerial image analysis, vision-based navigation, deep learning enhancement
-- **Robotics & UAVs**: Autonomous surveillance, GNSS-denied navigation, drone interceptor systems, system integration
+- **Robot Learning & Planning:** Reinforcement learning, world models, imitation learning, diffusion policies, and contact-rich manipulation.
+- **Safe Robotics:** Constraint-aware planning, safe control, and learning-based decision-making.
+- **Computer Vision & Navigation:** Visual odometry, object detection and tracking, optical flow, and GNSS-denied navigation.
+- **Autonomous Systems:** UAV navigation, robotic perception, guidance and control, and multi-robot systems.
 
 ---
 
 ## 🏆 Achievements & Recognition
 
-- 🥇 **Best of Session Award** - ICNS 2025, Brussels, Belgium
-- 🥇 **World 1st Place** - Robonation SUAS Competition 2023, Maryland, USA
-- 🥈 **World 2nd Place** - Robonation SUAS Competition 2024, Maryland, USA
-- 🥉 **3rd Place** - TEKNOFEST Dog-Fighting UAV Competition 2024, Turkey
-- 🥈 **2nd Place** - TEKNOFEST International UAV Competition 2023, Turkey
-- 🏅 **Best in Design** - TEKNOFEST Dog-Fighting UAV Competition 2024, Turkey
+- 🥇 **Best of Session Award** — ICNS 2025, Brussels, Belgium
+- 🥇 **1st Place Worldwide (Team)** — RoboNation SUAS Competition 2023, Maryland, USA
+- 🥈 **2nd Place Worldwide (Team)** — RoboNation SUAS Competition 2024, Maryland, USA
+- 🥉 **3rd Place** — TEKNOFEST Dog-Fighting UAV Competition 2024, Türkiye
+- 🥈 **2nd Place** — TEKNOFEST International UAV Competition 2023, Türkiye
+- 🏅 **Best in Design** — TEKNOFEST Dog-Fighting UAV Competition 2024, Türkiye
+- 🎓 **Top 0.1% Nationwide** — Turkish University Entrance Examination (YKS 2021), ranked 2,831st among approximately 2.5 million candidates
 
 ---
 
 ## 📝 Publications
 
-**[Conference Proceedings]** A. Şanlan, **H.T. Bağcı**, and E. Koyuncu. "Particle Filter-Based Localization Using Visual Feature Synchronization in GNSS-Denied Navigation". *ICNS 2025*. DOI: 10.1109/ICNS65417.2025.10976891
+**TANGO-VIO: Triangulation-Aware Navigation with Guaranteed Feature-Observability for Visual-Inertial Odometry**  
+*arXiv preprint, 2026*  
+[Paper](https://arxiv.org/abs/2608.02079)
 
+**Particle Filter-Based Localization Using Visual Feature Synchronization in GNSS-Denied Navigation**  
+A. Sanlan, **H. T. Bagci**, and E. Koyuncu  
+*Integrated Communications, Navigation and Surveillance Conference (ICNS), 2025*  
+[Paper](https://doi.org/10.1109/ICNS65417.2025.10976891)
+
+For an updated publication list, see my [Google Scholar profile](https://scholar.google.com/citations?user=Bagci_HT).
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & ML/AI
+### Programming & Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Libraries & Frameworks**: Pandas, NumPy, Gym, Keras, Matplotlib, Plotly, SciPy, PySpark
+**Libraries:** NumPy, Pandas, SciPy, Matplotlib, Gymnasium, Keras
 
-### Robotics & Systems
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white)
+### Robotics & Simulation
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**Tools**: Gazebo, Isaac Sim, LangGraph, ROS2, Shell Scripting
+**Tools:** ROS 2, Isaac Sim, Isaac Lab, Gazebo, OpenCV
 
-### Cloud & Data
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+### Development Tools
 
-**Platforms**: Elasticsearch, Kibana, Apache Airflow, Hadoop, Tableau, Power BI
-
-### Development & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Design Tools**: Photoshop, Illustrator, After Effects, Premiere Pro
+**Additional Experience:** LangGraph, SQL, AWS, Google Cloud, PySpark
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasantahabagci)
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://hasantahabagci.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasantahabagci)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bagcih21@itu.edu.tr)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Bagci_HT)
-
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Bagci_HT)
